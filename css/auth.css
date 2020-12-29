@@ -1,0 +1,50 @@
+body {
+  font-family: 'Poppins', Sans-Serif;
+}
+
+.blancSpace {
+  background-color: #EEEEEE;
+  height: 300px;
+  width: 290px;
+  position: absolute;
+  left:-30px;
+  border-radius: 40px;
+}
+.termsOfService {
+  position: absolute;
+  left: 50px;
+}
+.bold {
+  position: absolute;
+  left: 50px;
+  top: 120px;
+  font-size: 17px;
+}
+.Welcome {
+  width: 500px;
+  position: relative;
+  left: 270px;
+  align-items: center;
+}
+.username, .password {
+  position: relative;
+  left: 270px;
+}
+#email, #password {
+  background-color: #EEEEEE;
+  border-width: 0px;
+  border-radius: 80px;
+  height: 30px;
+}
+#submit {
+  background-color:#535BB4;
+  position: relative;
+  left: 270px;
+  top: 20px;
+  border-width: 0px;
+  border-radius: 80px;
+  color:#EEEEEE;
+  height: 27px;
+  width: 73px;
+  
+}
