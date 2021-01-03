@@ -1,0 +1,115 @@
+body {
+  font-family: 'Poppins', Sans-Serif;
+}
+
+.blancSpace {
+  background-color: #EEEEEE;
+  height: 480px;
+  width: 310px;
+  position: absolute;
+  left:-30px;
+  border-radius: 40px;
+}
+.termsOfService {
+  position: absolute;
+  left: 30px;
+  font-size: 22px;
+}
+.bold {
+  position: absolute;
+  left: 30px;
+  top: 170px;
+  font-size: 27px;
+}
+.Welcome {
+  width: 500px;
+  position: relative;
+  left: 270px;
+  align-items: center;
+}
+.username, .password{
+  position: relative;
+  left: 270px;
+}
+#email, #password, #SignEmail, #SignPassword, #username{
+  background-color: #EEEEEE;
+  border-width: 0px;
+  border-radius: 80px;
+  height: 30px;
+}
+#submit {
+  background-color:#535BB4;
+  position: relative;
+  left: 270px;
+  top: 20px;
+  border-width: 0px;
+  border-radius: 80px;
+  color:#EEEEEE;
+  height: 27px;
+  width: 73px;
+}
+.signup {
+  position: relative;
+  left: 50px;
+  top: 40px;
+}
+#SignEmail, .emailP, #SignPassword,.passwordPP, #username, .Username {
+  position: relative;
+  left: 50px;
+}
+.emailP {
+  position: relative
+}
+.form {
+  position: relative;
+  top: 50px;
+}
+#create {
+  background-color:#343A7E;
+  position: relative;
+  right: 200px;
+  top: 70px;
+  border-width: 0px;
+  border-radius: 80px;
+  color:#EEEEEE;
+  height: 26px;
+  width: 180px;
+}
+.form1, .form2 {
+  position: relative;
+  left: 100px;
+}
+.form2 {
+  position: relative;
+  left: 900px;
+  top: -320px;
+}
+.loginForm {
+  position: relative;
+  top: 10px;
+}
+#logInMessage {
+  position: relative ;
+  left: 330px;
+  top: -280px;
+  width: 320px;
+  border-width: 38px;
+  border-radius: 10px;
+  border-color: #5DC75D;
+  color: #5C5C5C;
+background-color: #8ABD8A5E;
+opacity: 0;
+  
+}
+#createAccMessage {
+  position: relative ;
+  left: 950px;
+  top: -220px;
+  width: 250px;
+  border-width: 38px;
+  border-radius: 10px;
+  border-color: #5DC75D;
+  color: #5C5C5C;
+background-color: #8ABD8A5E;
+opacity: 0;
+}
